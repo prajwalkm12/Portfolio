@@ -1,0 +1,4 @@
+.btn:hover {
+    background: #6366f1;
+    transform: scale(1.05);
+}
